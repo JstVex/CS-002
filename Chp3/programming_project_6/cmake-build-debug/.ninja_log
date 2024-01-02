@@ -1,0 +1,27 @@
+# ninja log v5
+0	542	1696441068321466573	CMakeFiles/programming_project_6.dir/main.cpp.o	704ffaaa66e117b7
+543	591	1696441068373251178	programming_project_6	39d1368a0d7b5c12
+2	479	1696441092472864904	CMakeFiles/programming_project_6.dir/main.cpp.o	704ffaaa66e117b7
+479	524	1696441092520554273	programming_project_6	39d1368a0d7b5c12
+2	475	1696441107424042631	CMakeFiles/programming_project_6.dir/main.cpp.o	704ffaaa66e117b7
+476	528	1696441107479505233	programming_project_6	39d1368a0d7b5c12
+3	560	1696441377378496587	CMakeFiles/programming_project_6.dir/main.cpp.o	704ffaaa66e117b7
+560	629	1696441377449534278	programming_project_6	39d1368a0d7b5c12
+12	530	1696441635400928531	CMakeFiles/programming_project_6.dir/main.cpp.o	704ffaaa66e117b7
+530	578	1696441635451496415	programming_project_6	39d1368a0d7b5c12
+2	510	1696441896109181504	CMakeFiles/programming_project_6.dir/main.cpp.o	704ffaaa66e117b7
+510	559	1696441896161390183	programming_project_6	39d1368a0d7b5c12
+2	515	1696442469277902896	CMakeFiles/programming_project_6.dir/main.cpp.o	704ffaaa66e117b7
+515	563	1696442469328684437	programming_project_6	39d1368a0d7b5c12
+2	485	1696442486600194630	CMakeFiles/programming_project_6.dir/main.cpp.o	704ffaaa66e117b7
+485	531	1696442486647995992	programming_project_6	39d1368a0d7b5c12
+3	499	1696442517911118996	CMakeFiles/programming_project_6.dir/main.cpp.o	704ffaaa66e117b7
+499	546	1696442517960609775	programming_project_6	39d1368a0d7b5c12
+2	236	1696442524912467122	CMakeFiles/programming_project_6.dir/main.cpp.o	704ffaaa66e117b7
+236	265	1696442524942951146	programming_project_6	39d1368a0d7b5c12
+2	244	1696442531050524143	CMakeFiles/programming_project_6.dir/main.cpp.o	704ffaaa66e117b7
+244	273	1696442531081452073	programming_project_6	39d1368a0d7b5c12
+1	483	1696442626962536513	CMakeFiles/programming_project_6.dir/main.cpp.o	704ffaaa66e117b7
+483	530	1696442627011762715	programming_project_6	39d1368a0d7b5c12
+2	485	1696442734212564341	CMakeFiles/programming_project_6.dir/main.cpp.o	704ffaaa66e117b7
+485	532	1696442734261105268	programming_project_6	39d1368a0d7b5c12
