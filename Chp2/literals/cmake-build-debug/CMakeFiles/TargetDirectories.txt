@@ -1,0 +1,3 @@
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp2/literals/cmake-build-debug/CMakeFiles/literals.dir
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp2/literals/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp2/literals/cmake-build-debug/CMakeFiles/rebuild_cache.dir

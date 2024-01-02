@@ -1,0 +1,3 @@
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp2/looping_bonanza/cmake-build-debug/CMakeFiles/looping_bonanza.dir
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp2/looping_bonanza/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp2/looping_bonanza/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+# ninja log v5
+0	590	1695252049900360652	CMakeFiles/practice_program_1.dir/main.cpp.o	9e76fba4eba8c0cc
+591	641	1695252049956809806	practice_program_1	a1ff2149d039ffe6
+2	495	1695252130826972681	CMakeFiles/practice_program_1.dir/main.cpp.o	9e76fba4eba8c0cc
+495	542	1695252130876738636	practice_program_1	a1ff2149d039ffe6
+3	512	1695315396513669070	CMakeFiles/practice_program_1.dir/main.cpp.o	9e76fba4eba8c0cc
+512	560	1695315396564194533	practice_program_1	a1ff2149d039ffe6
+10	551	1695316277497806067	CMakeFiles/practice_program_1.dir/main.cpp.o	9e76fba4eba8c0cc
+552	602	1695316277551779590	practice_program_1	a1ff2149d039ffe6
+11	2087	1695527935059016665	CMakeFiles/practice_program_1.dir/main.cpp.o	9e76fba4eba8c0cc
+2087	2310	1695527935284726595	practice_program_1	a1ff2149d039ffe6
+5	296	1695527972433405201	CMakeFiles/practice_program_1.dir/main.cpp.o	9e76fba4eba8c0cc
+296	333	1695527972471366674	practice_program_1	a1ff2149d039ffe6
+2	497	1696189510354735502	CMakeFiles/practice_program_1.dir/main.cpp.o	9e76fba4eba8c0cc
+497	547	1696189510405851633	practice_program_1	a1ff2149d039ffe6
+9	530	1696189535438576452	CMakeFiles/practice_program_1.dir/main.cpp.o	9e76fba4eba8c0cc
+530	578	1696189535489340593	practice_program_1	a1ff2149d039ffe6
