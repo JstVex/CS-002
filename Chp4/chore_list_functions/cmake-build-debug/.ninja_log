@@ -1,0 +1,11 @@
+# ninja log v5
+0	611	1697135599527043662	CMakeFiles/chore_list_functions.dir/main.cpp.o	9e216660a7c925b6
+1	624	1697135599541279073	CMakeFiles/chore_list_functions.dir/functions.cpp.o	621bd5fd0b227fd7
+624	703	1697135599622313047	chore_list_functions	ab242dcf65f5ada5
+2	381	1697135777721915346	CMakeFiles/chore_list_functions.dir/functions.cpp.o	621bd5fd0b227fd7
+381	427	1697135777769977630	chore_list_functions	ab242dcf65f5ada5
+2	518	1697135928409595360	CMakeFiles/chore_list_functions.dir/functions.cpp.o	621bd5fd0b227fd7
+518	568	1697135928461295037	chore_list_functions	ab242dcf65f5ada5
+11	2248	1697400854162702229	CMakeFiles/chore_list_functions.dir/main.cpp.o	9e216660a7c925b6
+12	2259	1697400854174498289	CMakeFiles/chore_list_functions.dir/functions.cpp.o	621bd5fd0b227fd7
+2259	2502	1697400854419437625	chore_list_functions	ab242dcf65f5ada5

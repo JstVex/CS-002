@@ -1,0 +1,8 @@
+# ninja log v5
+2	1064	1697478160219214120	CMakeFiles/functions_examples.dir/main.cpp.o	30d3628347fd1475
+1	1072	1697478160218922091	CMakeFiles/functions_examples.dir/functions.cpp.o	993e993ed072f077
+1073	1140	1697478160308941584	functions_examples	5015ce49c1f5f600
+11	345	1697478184732828985	CMakeFiles/functions_examples.dir/functions.cpp.o	993e993ed072f077
+345	389	1697478184783067204	functions_examples	5015ce49c1f5f600
+2	495	1697478326599111777	CMakeFiles/functions_examples.dir/functions.cpp.o	993e993ed072f077
+495	543	1697478326649575152	functions_examples	5015ce49c1f5f600

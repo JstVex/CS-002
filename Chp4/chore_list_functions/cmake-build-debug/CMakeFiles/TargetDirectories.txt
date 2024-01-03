@@ -1,0 +1,3 @@
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp4/chore_list_functions/cmake-build-debug/CMakeFiles/chore_list_functions.dir
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp4/chore_list_functions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp4/chore_list_functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

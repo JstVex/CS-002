@@ -1,0 +1,3 @@
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp4/choose_your_own_adventure/cmake-build-debug/CMakeFiles/choose_your_own_adventure.dir
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp4/choose_your_own_adventure/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp4/choose_your_own_adventure/cmake-build-debug/CMakeFiles/rebuild_cache.dir

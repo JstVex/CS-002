@@ -1,0 +1,6 @@
+# ninja log v5
+0	508	1697133822636188806	CMakeFiles/area_of_shapes_function.dir/main.cpp.o	90ed1b86a6159cb5
+1	512	1697133822641345015	CMakeFiles/area_of_shapes_function.dir/functions.cpp.o	66b9f22ed46f90d6
+512	563	1697133822693654331	area_of_shapes_function	e32258e4a30e75f5
+3	517	1697133884276610743	CMakeFiles/area_of_shapes_function.dir/functions.cpp.o	66b9f22ed46f90d6
+517	565	1697133884327765879	area_of_shapes_function	e32258e4a30e75f5

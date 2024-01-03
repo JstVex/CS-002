@@ -1,0 +1,3 @@
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp4/area_of_shapes_function/cmake-build-debug/CMakeFiles/area_of_shapes_function.dir
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp4/area_of_shapes_function/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp4/area_of_shapes_function/cmake-build-debug/CMakeFiles/rebuild_cache.dir
