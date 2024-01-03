@@ -1,0 +1,3 @@
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp5/programming_project_1/cmake-build-debug/CMakeFiles/programming_project_1.dir
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp5/programming_project_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp5/programming_project_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

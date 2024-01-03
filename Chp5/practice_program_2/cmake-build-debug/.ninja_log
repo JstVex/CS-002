@@ -1,0 +1,12 @@
+# ninja log v5
+1	560	1699055627531908992	CMakeFiles/practice_program_2.dir/main.cpp.o	8432a3f48b41dd15
+6	467	1699055639396315391	CMakeFiles/practice_program_2.dir/functions.cpp.o	f3db56b8531aad99
+467	518	1699055639449306686	practice_program_2	47243a6e0791043
+2	493	1699055673255273416	CMakeFiles/practice_program_2.dir/functions.cpp.o	f3db56b8531aad99
+493	541	1699055673305113644	practice_program_2	47243a6e0791043
+2	490	1699055708436037690	CMakeFiles/practice_program_2.dir/functions.cpp.o	f3db56b8531aad99
+490	538	1699055708486176324	practice_program_2	47243a6e0791043
+2	572	1699055875358894343	CMakeFiles/practice_program_2.dir/functions.cpp.o	f3db56b8531aad99
+572	620	1699055875409165037	practice_program_2	47243a6e0791043
+10	530	1699055899588291337	CMakeFiles/practice_program_2.dir/functions.cpp.o	f3db56b8531aad99
+530	576	1699055899635998370	practice_program_2	47243a6e0791043
