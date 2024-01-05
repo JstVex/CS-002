@@ -1,0 +1,18 @@
+# ninja log v5
+0	620	1700950287312886638	CMakeFiles/programming_project_2.dir/main.cpp.o	4d255b3fe29581fb
+2	632	1700950287325844692	CMakeFiles/programming_project_2.dir/functions.cpp.o	bbe27c817ba4dd00
+632	682	1700950287378146987	programming_project_2	303bfe065662a270
+1	659	1700950454371400289	CMakeFiles/programming_project_2.dir/functions.cpp.o	bbe27c817ba4dd00
+660	717	1700950454432122044	programming_project_2	303bfe065662a270
+5	566	1700950480119057733	CMakeFiles/programming_project_2.dir/functions.cpp.o	bbe27c817ba4dd00
+566	613	1700950480168599818	programming_project_2	303bfe065662a270
+2	990	1700950503781173306	CMakeFiles/programming_project_2.dir/functions.cpp.o	bbe27c817ba4dd00
+991	1039	1700950503833181132	programming_project_2	303bfe065662a270
+2	569	1700956008422295307	CMakeFiles/programming_project_2.dir/functions.cpp.o	bbe27c817ba4dd00
+569	620	1700956008476990142	programming_project_2	303bfe065662a270
+2	602	1700956052742966563	CMakeFiles/programming_project_2.dir/functions.cpp.o	bbe27c817ba4dd00
+602	652	1700956052795300815	programming_project_2	303bfe065662a270
+2	633	1700956092446359852	CMakeFiles/programming_project_2.dir/functions.cpp.o	bbe27c817ba4dd00
+633	684	1700956092500558280	programming_project_2	303bfe065662a270
+9	645	1700956116409381561	CMakeFiles/programming_project_2.dir/functions.cpp.o	bbe27c817ba4dd00
+645	694	1700956116462372884	programming_project_2	303bfe065662a270

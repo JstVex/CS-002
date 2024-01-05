@@ -1,0 +1,17 @@
+# ninja log v5
+0	719	1701046057750836453	CMakeFiles/programming_project_8.dir/main.cpp.o	e7f902a92191fbdb
+1	734	1701046057768274905	CMakeFiles/programming_project_8.dir/functions.cpp.o	b24457011936d2e7
+734	798	1701046057833559634	programming_project_8	5a3a5ff15011749a
+11	623	1701046386592286114	CMakeFiles/programming_project_8.dir/main.cpp.o	e7f902a92191fbdb
+12	632	1701046386602516858	CMakeFiles/programming_project_8.dir/functions.cpp.o	b24457011936d2e7
+632	681	1701046386653144888	programming_project_8	5a3a5ff15011749a
+1	407	1701046504970968388	CMakeFiles/programming_project_8.dir/functions.cpp.o	b24457011936d2e7
+407	461	1701046505027247128	programming_project_8	5a3a5ff15011749a
+1	495	1701046548146649251	CMakeFiles/programming_project_8.dir/functions.cpp.o	b24457011936d2e7
+495	563	1701046548217051998	programming_project_8	5a3a5ff15011749a
+2	366	1701046619581194575	CMakeFiles/programming_project_8.dir/functions.cpp.o	b24457011936d2e7
+366	431	1701046619651286123	programming_project_8	5a3a5ff15011749a
+2	586	1701046866697002056	CMakeFiles/programming_project_8.dir/functions.cpp.o	b24457011936d2e7
+586	635	1701046866749500223	programming_project_8	5a3a5ff15011749a
+2	535	1701046925483720955	CMakeFiles/programming_project_8.dir/functions.cpp.o	b24457011936d2e7
+535	581	1701046925532799190	programming_project_8	5a3a5ff15011749a

@@ -1,0 +1,7 @@
+This is a sample input file.
+It contains multiple lines.
+Some lines have leading spaces.
+    This line has leading spaces.
+There are empty lines as well.
+
+This is the last line.

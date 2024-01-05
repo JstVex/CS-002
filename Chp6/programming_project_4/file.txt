@@ -1,0 +1,4 @@
+This is a sample text file for testing the average word length computation.
+Each line contains various words, including punctuation marks like commas, periods, and exclamation marks!
+Make sure to test different cases, such as words with hyphens and apostrophes.
+End of the sample file.

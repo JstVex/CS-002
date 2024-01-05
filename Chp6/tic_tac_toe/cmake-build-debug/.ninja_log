@@ -1,0 +1,6 @@
+# ninja log v5
+1	699	1699984676361708574	CMakeFiles/tic_tac_toe.dir/main.cpp.o	c6a42cc4588ce0ff
+2	701	1699984676361783573	CMakeFiles/tic_tac_toe.dir/MainDriver.cpp.o	335586b98bc9ce0e
+1	709	1699984676371816840	CMakeFiles/tic_tac_toe.dir/GameFunctions.cpp.o	62c478d2384ff4d9
+2	722	1699984676382390639	CMakeFiles/tic_tac_toe.dir/ConsoleManager.cpp.o	9b6895ee6fb96366
+722	958	1699984676624764027	tic_tac_toe	aafe4da902e78673

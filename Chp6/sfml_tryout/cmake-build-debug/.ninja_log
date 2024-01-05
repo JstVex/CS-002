@@ -1,0 +1,4 @@
+# ninja log v5
+0	249	1700591789968257890	build.ninja	d8f59a15918e22f7
+0	608	1700508709528599716	CMakeFiles/sfml_tryout.dir/main.cpp.o	b2e6a6fb0bcdf49e
+609	666	1700508709589600540	sfml_tryout	203e9aa0d1dedac7

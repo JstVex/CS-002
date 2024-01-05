@@ -1,0 +1,7 @@
+# ninja log v5
+0	604	1700506069818718807	CMakeFiles/programming_project_7.dir/main.cpp.o	33f3381df3821ceb
+1	622	1700506069837552606	CMakeFiles/programming_project_7.dir/functions.cpp.o	6f8bd14d816e5184
+622	795	1700506070012768056	programming_project_7	bbff89098dcaa19d
+12	614	1701044467005616118	CMakeFiles/programming_project_7.dir/main.cpp.o	33f3381df3821ceb
+13	630	1701044467024559444	CMakeFiles/programming_project_7.dir/functions.cpp.o	6f8bd14d816e5184
+630	798	1701044467194194988	programming_project_7	bbff89098dcaa19d
