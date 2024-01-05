@@ -1,0 +1,3 @@
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp8/connection/cmake-build-debug/CMakeFiles/connection.dir
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp8/connection/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/heinhtetlulu/Documents/first semester/CS002/clion/Chp8/connection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
